@@ -1,0 +1,96 @@
+.card {
+    display: flex;
+    margin-left: auto;
+	margin-right: 60%;
+	margin-top: 10%;
+    border-radius: 10px;
+  
+    max-width: 350px;
+    min-height: 600px;
+    
+}
+.sedans {
+    
+    background-color:  hsl(31, 77%, 52%);
+   
+	
+    border-radius: 3px;
+  
+    min-width: 300px;
+}
+.sedan-button {
+    background-color:hsl(31, 77%, 52%);
+    color: #fff;
+   
+    border-color: #fff;
+    border-radius: 35%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom:4%;
+}
+.suvs {
+    
+    background-color: hsl(184, 100%, 22%);
+    
+    
+	
+    border-radius: 3px;
+  
+    min-width: 300px;
+}
+.suv-button{
+    background-color:hsl(184, 100%, 22%);
+    color: #fff;
+   
+    border-color: #fff;
+    border-radius: 35%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom:4%;
+}
+.luxary {
+   
+    background-color: hsl(179, 100%, 13%);
+    
+	
+    border-radius: 3px;
+  
+    min-width: 300px;
+}
+.luxary-button{
+    background-color:hsl(179, 100%, 13%);
+    color: #fff;
+   
+    border-color: #fff;
+    border-radius: 35%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom:4%;
+    margin-bottom: -30%;
+}
+h1 {
+    padding-left: 15%;
+    padding-top: 30%;
+    color: #fff;
+    font-weight: bold;
+}
+p {
+    padding-top: 10%;
+    padding-left: 15%;
+    color:#fff;
+    font-size: 20px;
+    line-height: 25.5px;
+}
+img {
+    margin-bottom: -25%;
+    margin-left: 16%;
+}
+
+button {
+    margin-top: 20%;
+    margin-left: 17%;
+    cursor: pointer;
+}
